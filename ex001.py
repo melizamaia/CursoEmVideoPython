@@ -1,5 +1,3 @@
-nome = input ("Qual é o nome?")
-print("É um grande prazer em te conhecer", nome)
+#Famoso "Olá, mundo" para nos dar sorte! :)
 
-# idade = input ("Quantos anos você tem?")
-# print("Também possuo", idade)
+print("Olá, mundo!")

@@ -4,8 +4,11 @@ Conceitos e práticas de exercícios
 
 Mundo 1:
 -Tratando dados e fazendo contas
+
 -Usando módulos do Python
+
 -Condições em Python
+
 -Adicionando cores no terminal
 
 Mundo2:
